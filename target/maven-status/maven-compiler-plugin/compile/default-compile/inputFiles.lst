@@ -1,0 +1,7 @@
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/com/custom/sonar/java/rules/AvoidClassNameStartsWithSmallLetter.java
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/msi/custom/sonar/java/plugin/CustomRulesDefinition.java
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/msi/custom/sonar/java/plugin/RulesList.java
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/msi/custom/sonar/java/plugin/CustomJavaFileCheckRegistrar.java
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/com/custom/sonar/java/rules/AvoidSmallerLengthVariableNameRule.java
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/com/custom/sonar/java/rules/AvoidVariableNameWithoutm.java
+/home/zeromsi/eclipse-workspace/msi-plugin/src/main/java/com/msi/custom/sonar/java/plugin/CustomJavaRulesEntry.java
